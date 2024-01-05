@@ -1,0 +1,15 @@
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\bin\Debug\CamadaApresentacao.exe.config
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\bin\Debug\CamadaApresentacao.exe
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\bin\Debug\CamadaApresentacao.pdb
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.AssemblyReference.cache
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\obj\Debug\CamadaApresentacao.Properties.Resources.resources
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.GenerateResource.cache
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\obj\Debug\CamadaApresentacao.exe
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\obj\Debug\CamadaApresentacao.pdb
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\obj\Debug\CamadaApresentacao.Form1.resources
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\bin\Debug\CamadaControle.dll
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\bin\Debug\CamadaModelo.dll
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\bin\Debug\CamadaControle.pdb
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\bin\Debug\CamadaModelo.pdb
+C:\Users\robso\source\repos\Marketplace\CamadaApresentacao\obj\Debug\CamadaApresentacao.csproj.CopyComplete

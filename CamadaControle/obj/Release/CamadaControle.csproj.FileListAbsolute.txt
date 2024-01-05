@@ -1,0 +1,9 @@
+C:\Users\robso\source\repos\Marketplace\CamadaControle\bin\Release\CamadaControle.dll
+C:\Users\robso\source\repos\Marketplace\CamadaControle\bin\Release\CamadaControle.pdb
+C:\Users\robso\source\repos\Marketplace\CamadaControle\bin\Release\CamadaModelo.dll
+C:\Users\robso\source\repos\Marketplace\CamadaControle\bin\Release\CamadaModelo.pdb
+C:\Users\robso\source\repos\Marketplace\CamadaControle\obj\Release\CamadaControle.csproj.AssemblyReference.cache
+C:\Users\robso\source\repos\Marketplace\CamadaControle\obj\Release\CamadaControle.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\Marketplace\CamadaControle\obj\Release\CamadaControle.csproj.CopyComplete
+C:\Users\robso\source\repos\Marketplace\CamadaControle\obj\Release\CamadaControle.dll
+C:\Users\robso\source\repos\Marketplace\CamadaControle\obj\Release\CamadaControle.pdb
