@@ -1,0 +1,6 @@
+C:\Users\robso\source\repos\Marketplace\CamadaModelo\bin\Debug\CamadaModelo.dll
+C:\Users\robso\source\repos\Marketplace\CamadaModelo\bin\Debug\CamadaModelo.pdb
+C:\Users\robso\source\repos\Marketplace\CamadaModelo\obj\Debug\CamadaModelo.csproj.AssemblyReference.cache
+C:\Users\robso\source\repos\Marketplace\CamadaModelo\obj\Debug\CamadaModelo.csproj.CoreCompileInputs.cache
+C:\Users\robso\source\repos\Marketplace\CamadaModelo\obj\Debug\CamadaModelo.dll
+C:\Users\robso\source\repos\Marketplace\CamadaModelo\obj\Debug\CamadaModelo.pdb
